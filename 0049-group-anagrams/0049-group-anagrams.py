@@ -4,7 +4,7 @@ class Solution:
         ana = dict()
 
         for i in strs:
-            keys = tuple(sorted(i))
+            keys = ''.join(sorted(i))
             if keys not in ana:
                 ana[keys] = []
             ana[keys].append(i)
