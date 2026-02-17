@@ -38,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/y7y1h13/LeetCode/tree/master/0837-most-common-word) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/y7y1h13/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/y7y1h13/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/y7y1h13/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
