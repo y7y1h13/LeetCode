@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/y7y1h13/LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/y7y1h13/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/y7y1h13/LeetCode/tree/master/0049-group-anagrams) |
 | [0837-most-common-word](https://github.com/y7y1h13/LeetCode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/y7y1h13/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/y7y1h13/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/y7y1h13/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/y7y1h13/LeetCode/tree/master/0344-reverse-string) |
 ## String
@@ -45,9 +47,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/y7y1h13/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/y7y1h13/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/y7y1h13/LeetCode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/y7y1h13/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/y7y1h13/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
